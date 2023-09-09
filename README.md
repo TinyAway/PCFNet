@@ -5,6 +5,7 @@ Official implementation of Pyramid correlation fusion Network
 * Pytorch 1.9
 * albumentations 0.4
 * faiss 1.7
+* tensorboardX 2.4
 # Data preparation
 Download the following datasets:
 1.	[iSAID-5i](https://github.com/caoql98/SDM)
