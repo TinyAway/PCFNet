@@ -6,6 +6,6 @@ Official implementation of Pyramid correlation fusion Network
 * albumentations 0.4
 * faiss 1.7
 # Data preparation
-Download following datasets:
+Download the following datasets:
 1.	[iSAID-5i](https://github.com/caoql98/SDM)
-2.	[DLRSD](https://pan.baidu.com/s/1Vhxrl7s9dHGZ3OH41VIPUw)
+2.	[DLRSD](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)
