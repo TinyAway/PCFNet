@@ -1,5 +1,5 @@
 # PCFNet
-Official implementation of Pyramid correlation fusion Network
+Official pytorch implementation of [Few-Shot Aerial Image Semantic Segmentation Leveraging Pyramid Correlation Fusion](https://ieeexplore.ieee.org/document/10299677)
 # Requirements
 * Python 3.7
 * Pytorch 1.9
